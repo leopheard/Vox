@@ -2,7 +2,6 @@ from xbmcswift2 import Plugin, xbmcgui
 from resources.lib import mainaddon
 
 plugin = Plugin()
-#https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/441/touch_icon_iphone_retina_1000_yellow.755.png
 url1 = "https://rss.art19.com/reset" #RESET
 url2 = "https://feeds.megaphone.fm/landofthegiants"
 url3 = "https://feeds.megaphone.fm/recodedecode"
