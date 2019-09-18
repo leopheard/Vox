@@ -1,0 +1,101 @@
+# Kodi Media Center language file
+# Addon Provider: leopheard
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: leopheard@gmail.com\n"
+"POT-Creation-Date: 2019-08-12 HO:MI+ZONE\n"
+"PO-Revision-Date: 2019-08-12 HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30001"
+msgid "Reset"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Land Of The Giants"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Recode Decode"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Recode Media"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Pivot"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Today Explained"
+msgstr ""
+
+msgctxt "#30007"
+msgid "The Weeds"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Worldly"
+msgstr ""
+
+msgctxt "#30009"
+msgid "The Ezra Klein Show"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Switched On Pop"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Impact"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Future Perfect"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Primetime"
+msgstr ""
+
+msgctxt "#30014"
+msgid "I Think You're Interesting"
+msgstr ""
+
+msgctxt "#300015"
+msgid "Function"
+msgstr ""
+
+msgctxt "#30016"
+msgid "History Of Fun"
+msgstr ""
+
+msgctxt "#30017"
+msgid "The Polygon Show"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Quality Control"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Why'd You Push That Button?"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Vergecast"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Verge Extras"
+msgstr ""
+
+# empty string with id 32003
